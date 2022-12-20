@@ -1,13 +1,12 @@
-### Hi there !!!
-#### I am Pavel Kalinin
+### Hi there !!! I am Pavel Kalinin
 
-[![Linkedin Badge](https://img.shields.io/badge/-pavelkalininn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavelkalininn/)](https://www.linkedin.com/in/pavelkalininn/)
+#### Python developer in certification company since march 2021
+
+[![Linkedin Badge](https://img.shields.io/badge/-pavelkalininn-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/pavelkalininn/)](https://www.linkedin.com/in/pavelkalininn/)
 [![Gmail Badge](https://img.shields.io/badge/-pavelkalininn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pavelkalininn@gmail.com)](mailto:pavelkalininn@gmail.com)
 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> developer in certification company since march 2021
-
 ### Technologies:
-
+[![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn) 
 [![Git](http://img.shields.io/badge/-Git-000000?style=flat&logo=git&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn) 
 [![Github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn)
 [![Github Actions](http://img.shields.io/badge/-Github%20Actions-000000?style=flat-square&logo=github-actions&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn)
