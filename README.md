@@ -1,9 +1,6 @@
-### Hi there !!! I am Pavel Kalinin
+### Hi there !!! I am Pavel Kalinin [![Linkedin Badge](https://img.shields.io/badge/-pavelkalininn-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/pavelkalininn/)](https://www.linkedin.com/in/pavelkalininn/) [![Gmail Badge](https://img.shields.io/badge/-pavelkalininn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pavelkalininn@gmail.com)](mailto:pavelkalininn@gmail.com)
 
 #### Python developer in certification company since march 2021
-
-[![Linkedin Badge](https://img.shields.io/badge/-pavelkalininn-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/pavelkalininn/)](https://www.linkedin.com/in/pavelkalininn/)
-[![Gmail Badge](https://img.shields.io/badge/-pavelkalininn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pavelkalininn@gmail.com)](mailto:pavelkalininn@gmail.com)
 
 ### Technologies:
 [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn) 
