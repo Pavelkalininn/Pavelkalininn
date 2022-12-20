@@ -9,9 +9,11 @@
 ### Technologies:
 
 [![Git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn) 
-[![Github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn) 
+[![Github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn)
+[![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn)
+[![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Pavelkalininn)](https://github.com/Pavelkalininn) 
