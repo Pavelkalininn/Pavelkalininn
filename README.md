@@ -24,7 +24,9 @@
 <a href="https://github.com/Pavelkalininn/svyaz_docs_react">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavelkalininn&repo=svyaz_docs_react&theme=radical" alt="svyaz_docs_react" />
 </a>
-Python-react project svyaz_docs_react today is private, but i can show it, when you provide your github username.
+
+### Python-react project svyaz_docs_react today is private, but i can show it, when you provide your github username.
+
 ### My statistic
 <a href="https://github.com/Pavelkalininn">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelkalininn&theme=radical" />
