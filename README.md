@@ -21,9 +21,6 @@
 <a href="https://github.com/Pavelkalininn/laboratory_equipments">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavelkalininn&repo=laboratory_equipments&theme=radical" alt="laboratory_equipments" />
 </a>
-<a href="https://github.com/Pavelkalininn/svyaz_docs_react">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Pavelkalininn&repo=svyaz_docs_react&theme=radical" alt="svyaz_docs_react" />
-</a>
 
 ### Python-react project svyaz_docs_react today is private, but i can show it, when you provide your github username.
 
